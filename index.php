@@ -1,11 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title> Sample Page</title>
-
-"Hello World! I am Princess Jane Alcontin"
-
-
+	<title>Workshop3\Alcontin</title>
 </head>
 <body>
 
