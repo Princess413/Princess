@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Workshop3\Alcontin</title>
+	<title>Princess Alcontin</title>
 </head>
 <body>
-
+<img src="diagram.jpg">
 </body>
 </html>
